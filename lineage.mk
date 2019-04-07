@@ -30,5 +30,5 @@ PRODUCT_MODEL := SM-T217S
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BUILD_FINGERPRINT="samsung/lt02ltespr/lt02ltespr:4.4.2/KOT49H/T217SVPUBOH1:user/release-keys" \
-    PRIVATE_BUILD_DESC="lt02ltespr-user 4.4.2 KOT49H T217SVPUBOH1 release-keys"
+    BUILD_FINGERPRINT="samsung/lt02ltespr/lt02ltespr:4.4.2/KOT49H/T217SVPSBQA1:user/release-keys" \
+    PRIVATE_BUILD_DESC="lt02ltespr-user 4.4.2 KOT49H T217SVPSBQA1 release-keys"
